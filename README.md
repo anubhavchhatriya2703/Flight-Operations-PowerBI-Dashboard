@@ -1,2 +1,57 @@
-# Flight-Operations-PowerBI-Dashboard
-Interactive Flight Operations Dashboard built using Microsoft Power BI.
+# ✈️ Flight Operations Dashboard
+
+## 📌 Project Overview
+
+This project presents an interactive Flight Operations Dashboard built using Microsoft Power BI. It provides insights into airline performance, delays, cancellations, passenger trends, and operational efficiency.
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Power BI
+- Microsoft Excel
+- Power Query
+- DAX
+
+---
+
+## 📊 Dashboard Features
+
+- Total Flights
+- Delayed Flights
+- On-Time Performance
+- Flight Status Analysis
+- Airline Performance
+- Monthly Trends
+- Interactive Filters
+
+---
+
+## 📷 Dashboard Preview
+
+(Add dashboard screenshots below)
+
+![Dashboard](dashboard.png)
+
+---
+
+## 📈 Key Insights
+
+- Identified peak flight periods.
+- Compared airline performance.
+- Tracked delay trends.
+- Monitored operational efficiency.
+
+---
+
+## 📂 Files Included
+
+- Power BI Dashboard (.pbix)
+- Dataset
+- Dashboard Screenshots
+
+---
+
+## 👤 Author
+
+Anubhav Chhatriya
