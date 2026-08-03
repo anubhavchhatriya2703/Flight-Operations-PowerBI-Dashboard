@@ -42,11 +42,11 @@ This project presents an interactive Flight Operations Dashboard built using Mic
 
 ---
 
-## 📂 Files Included
+## 📁 Repository Contents
 
-- Power BI Dashboard (.pbix)
-- Dataset
-- Dashboard Screenshots
+- 📊 Power BI Dashboard (.pbix)
+- 🖼️ Dashboard Preview Image (.png)
+- 📄 README.md
 
 ---
 
