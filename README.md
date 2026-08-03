@@ -29,9 +29,7 @@ This project presents an interactive Flight Operations Dashboard built using Mic
 
 ## 📷 Dashboard Preview
 
-(Add dashboard screenshots below)
-
-![Dashboard](dashboard.png)
+![Dashboard](flight_dashboard.png)
 
 ---
 
